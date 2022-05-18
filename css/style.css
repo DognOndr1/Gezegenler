@@ -1,0 +1,65 @@
+
+body{
+    background-color: rgb(187, 164, 133);
+} 
+h1{
+    color: brown;
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#navbar{
+    list-style: none;
+    display: block;
+    text-align: center;
+
+}
+
+#navbar li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+#anasayfahead{
+    color: rgb(119, 0, 109);
+    text-align: center;
+    font-size: 27px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#anasyafacıklama{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#sayfaicerigi{
+    color: rgb(195, 195, 0);
+    text-align: center;
+    font-size: 20;
+}
+#siparagraf{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}   
+span{
+    color: red;
+}
+#gezegenliste{
+    text-align: center;
+    list-style-position: inside;
+}
+#gezegenleracıklama{
+    text-align: center;
+    border: 1px;
+    border-radius: 1px;
+    border-color: black;
+}
+#gezegenleracıklama li{
+    color: red;
+}
+.hakkımızda{
+    color: rgb(195, 195, 0);
+}
+.ikincibaslık{
+    color: purple;
+    font-size: 24px;
+    text-align: center;
+}
